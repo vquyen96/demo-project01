@@ -1,0 +1,58 @@
+header{
+	margin-bottom:40px;
+	background: #fff;
+}
+
+.imglogo{
+	margin-top: 10px;
+	height: 50px;
+}
+
+.videosearch{
+	padding: 0 50px;
+	height: 80px;
+	line-height: 80px;
+}
+#input-search{
+	margin-top: 23px;
+	display: inline-block;
+}
+
+.alert-success{
+	display: none;
+}
+.alert-danger{
+	display: none;
+}
+
+.icon-add{
+	display: none;	
+	position: absolute;
+	width: 91%;
+	z-index: 100;
+	top: 10px;
+	background: #333;
+	opacity: 0.7;
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	padding-left: 10px;
+}
+.content:hover .icon-add{
+	display: block;
+
+}
+.title{
+	height: 43px;
+	overflow: hidden;
+}
+.content img{
+	width: 100%;
+}
+.content{
+	padding:10px;
+}
+a strong{
+	color:#000;
+}
+
